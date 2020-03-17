@@ -1,0 +1,10 @@
+{
+    "list": [
+        {
+            "type": "github",
+            "repo": "dotnet/try",
+            "issue": "290",
+            "title": "Math.Round opens the browser print dialog"
+        }
+    ]
+}
