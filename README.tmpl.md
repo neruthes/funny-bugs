@@ -4,6 +4,8 @@ This is un list of funny bugs.
 
 ## List of Funny Bugs
 
+Issue | Title
+----- | -----
 {{CONTENT}}
 
 ## Contributing

@@ -5,7 +5,7 @@ const fs = require('fs');
 
 const createEntry = function (t, repo, issue, title) {
     const render_github = function (repo, issue, title) {
-        return `- \`[${repo}#${issue}]\` [${title}](https://github.com/${repo}/issues/${issue})`;
+        return `[${repo}#${issue}] | [${title}](https://github.com/${repo}/issues/${issue})`;
     };
     return render_github(repo, issue, title);
 };
