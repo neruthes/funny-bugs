@@ -6,7 +6,7 @@ This is un list of funny bugs.
 
 Issue | Title
 ----- | -----
-[dotnet/try#290] | [Math.Round opens the browser print dialog](https://github.com/dotnet/try/issues/290)
+dotnet/try#290 | [Math.Round opens the browser print dialog](https://github.com/dotnet/try/issues/290)
 
 ## Contributing
 
